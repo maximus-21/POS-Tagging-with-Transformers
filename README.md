@@ -5,5 +5,5 @@ Following the paper: [Attention is all you need](https://arxiv.org/abs/1706.0376
 Part of Speech Tagging task.<br>
 
 `Dataset used`:  Penn Treebank<br>
-'Tokenization': sentencepiece
+`Tokenization`: sentencepiece<br>
 `Accuracy`: 86.8
