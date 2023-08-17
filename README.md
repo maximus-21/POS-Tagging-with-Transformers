@@ -6,4 +6,9 @@ Part of Speech Tagging task.<br>
 
 `Dataset used`:  Penn Treebank<br>
 `Tokenization`: sentencepiece<br>
-`Accuracy`: 86.8
+
+ **Baseline Model**: A classifier where each word is assigned its most-frequent tag from the training data.<br>
+`Accuracy`: 86.8<br>
+
+**Transformer Model**
+`Accuracy`: 96.0<br>
