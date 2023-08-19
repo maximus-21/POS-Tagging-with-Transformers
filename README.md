@@ -8,7 +8,7 @@ Part of Speech Tagging task.<br>
 `Tokenization`: sentencepiece<br>
 
  **Baseline Model**: A classifier where each word is assigned its most-frequent tag from the training data.<br>
-`Accuracy`: 86.8<br>
+`Accuracy`: 87.5<br>
 
 **Transformer Model**<br>
 `Accuracy`: 96.0<br>
